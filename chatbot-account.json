@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "pruebamtec-vugf",
+  "private_key_id": "e9f802fb63857d0075f10c0e9e91180dea7f06ae",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCuDvkI9WOBN8tP\nzakxUxce9WT/vYrZvHghbnjjbejZkkSeDdZhJj732+wYVf18VN8d8hircWi7YS1/\n5xT5jA1gDytEsAFO5djXmsdOI4u9Hc9hoKqTqrNlpc91Wb0IwEt2upBPnP+bzITg\nO3KoE0WBAuz66bNop0WHpbeQKKuAMtafUYDter8SdozJcsDvbq1sNprQVCxxAXSz\npSNzKm6940ewx6/sJcbjjptj950vkHyAYCKwQ3n99TllR3MunpyI6ojaCL8OR+zU\nEB2PrQw45/sV2fvO4WQUP2K8OyVW7xBRuY0oHdlbmoLjuhD2E3Ti+sPTN4aKegFp\nUoG16hxFAgMBAAECggEACJWC882RpHYGtW8Vr3HNrlsY/yF50flWQwR9JZmOS1VI\nGTO3//m1pHN+DjOGyTqwopFbD5t2eDqXlpr5dmwmiGH/IYenl4dE3YSL3JSVXT81\niCGhv/TCHQV4ziyzOABZyGd021meuTA0g7rS0ataTmhBR9zo2kSuQb1rEzWPmFvJ\n5K19v6SY1J2JgwNVbfildJY5xgiSiCDZF/rvdM1NQAcCnasQKhDFlVDSt5bIcj4x\nl/UsWMREZ21p3naisA8B4NsJa5ctdYW1E2YEuM4BrCFOXeFYkVyVD9W9iHgcfRQi\nf7D+oyUJyy7RRF/ra0OlnYrVy79LKdKord5EEdz/EQKBgQDqGUR83QqxMvn2AkaZ\nJmh2yPDO1keB0iNUi3lartUOBegM5v6HATufwDECSvw+cR7e3EViYMp4zFZRbVLK\niQobEJt6P4Mx7AzM6cq3GgAwThGqJJy1ilTFruN0bOPvV/DD9+7JpycfYDr9V/oC\nc+ijRykGT+fLKNgB+nFYBeV3cQKBgQC+V7l8ZMp/BzZZhYDUvynqKMQzXAhiWxBT\nFjISrHIZWRDE1id0Wd4K2s6nvOKg8CyMSiAS0JG5IlJxP6tvJdNLaowCsV1lhzSM\nplnnr1NbtIew/2nfGwAiJER9ZFat/Aot+dJJ4qMaaSgpJMSOA+8sT5FYc/HtIGu8\nKKXolwRQFQKBgQDRcdfnyzBEx/IB25lkbouqMy/YLrj9epAnlT33F1MBX+F0obr5\n+O1qiV6PyZ0TFMxk4jilwymDmHZmFeSr1p4XBu3EG0z6/lGZiFbZKUcf8Mk3K9iV\nR/V+hHF2efIY8tozywB2pLmJBeThQ7QoO6HZa9JVlmoxRxKz+mksMuJR0QKBgB3N\nNGByk3XiFjNcALjOmWxtJ5L3BOUJZvvrTLm5wD+Rv1tiQFkqPOasLZD7tOwHzqHE\ndVMczsQSyJ+snVXQsU1siDFfvcTIr4SaAxeQTtfb4ybmRphE7PdrgEG1tRCWlq1u\nIOuqjWj0L/KJLDEkEo14g8Q6mxVKbzPNlXReOLGlAoGAXJbyV9zpKm0TmHiHRT+H\n6IaLOaachIjOsdUJsRV+c0wLQ+jEubdA8a3S6FjLCqPZpow2mmi5d+xCorStAX1q\nipl/Cl8Ww7TJNLorRl2mrfuS2mlG3c/0XEFtfP6M3xds52Z89zKuKZWrR5r6pIih\nwMUBk5Yue7nVnOipWea9qB8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "pruebamtec@pruebamtec-vugf.iam.gserviceaccount.com",
+  "client_id": "117843951875317055404",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pruebamtec%40pruebamtec-vugf.iam.gserviceaccount.com"
+}
+

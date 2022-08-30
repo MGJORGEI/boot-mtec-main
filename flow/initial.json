@@ -1,0 +1,127 @@
+[
+    {
+        "keywords":  [
+            "hola",
+            "hola!",
+            "ola",
+            "inicio",
+            "welcome",
+            "buenos días",
+            "buenas tardes",
+            "buenas noches",
+            "me dieron este número",
+            "ole",
+            "necesito saber",
+            "saludos",
+            "saludos!",
+            "jorge",
+            "buen dia jorge",
+            "mi jorge",
+            "george",
+            "buenas tardes jorge",
+            "buenas noches jorge",
+            "mi george",
+            "buen dia mi jorge",
+            "jorgito",
+            "bro",
+            "mi estimado",
+            "oye",
+            "oye jorge"
+        ],
+        "key": "STEP_1"
+    },
+    {
+        "keywords":  [
+            "1"
+            
+                    ],
+        "key": "STEP_2"
+    },
+    {
+        "keywords":  [
+            "2"
+        ],
+        "key": "STEP_2_1"
+    },
+    {
+        "keywords":  [
+            "3"
+        ],
+        "key": "STEP_2_2"
+    },
+    {
+        "keywords":  [
+            "4"
+        ],
+        "key": "STEP_2_3"
+    },
+    {
+        "keywords":  [
+            "5"
+        ],
+        "key": "STEP_2_4"
+    },
+    {
+        "keywords":  [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "key": "STEP_3"
+    },
+    {
+        "keywords":  [
+            "muchas gracias",
+            "ty",
+            "gracias",
+            "vale gracias",
+            "gracias!",
+            "gracias jorge",
+            "muchas gracias jorge",
+            "me ayudaste mucho"
+
+
+        ],
+        "key": "STEP_4"
+    },
+    {
+        "keywords":  [
+            "bye",
+            "hasta luego",
+            "nos vemos",
+            "adios",
+            "chao",
+            "hasta pronto",
+            "Adiós!",
+            "Adiós"
+            
+
+        ],
+        "key": "STEP_5"
+    },
+    {
+        "keywords":  [
+            "VER_CURSOS"
+        ],
+        "key": "STEP_6"
+    },
+    {
+        "keywords":  [
+            "Menu",
+            "MENU",
+            "menu"
+        ],
+        "key": "STEP_7"
+    },
+    {
+        "keywords":  [
+            
+            
+            
+            
+            
+        ],
+        "key": "STEP_8"
+    }
+]

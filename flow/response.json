@@ -1,0 +1,153 @@
+{
+    "DEFAULT":{
+        "replyMessage":[
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_0":{
+        "replyMessage":[
+            " \n",
+            "\n",
+            "https://media.giphy.com/media/JZDWiuZ7HOaNHfRdm9/giphy.gif"
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_1":{
+        "replyMessage":[
+            "¡Hola! 🤖 *Te estás comunicando con Bot-Tec.* ⚙️ \n",
+            "*¿Cómo te puedo ayudar?*  \n",
+            "\n Escribe el número con la opción que quieras conocer.\n",
+            "*1*. Para saber nuestro horario de atención. 🕘 \n",
+            "*2*. Conocer nuestros servicios. 👨🏽‍💻 \n",
+            "*3*. Status de tu equipo. 💻📱 \n",
+            "*4*. Información de nuestros paquetes de cámaras de seguridad. 📸🛡️ \n",
+            "*5*. Ser atendido por un asesor. 👨🏽‍💻✅ \n"
+
+        ],
+        "media":"https://media.giphy.com/media/JZDWiuZ7HOaNHfRdm9/giphy.gif",
+        "trigger":null,
+        "actions":{
+            "title":"¿Sigueme en nuestras redes sociales?",
+            "message":"Facebook, Instagram ó Github!",
+            "footer":"Gracias",
+            "buttons":[
+                {"body":"Facebook"},
+                {"body":"Instagram"},
+                {"body":"Github"}
+            ]
+        }
+    },
+    "STEP_2":{
+        "replyMessage":[
+            "Nuestro horario Lunes a Sabado de 9am a 6pm.\n",
+            "Escribe *MENU* para regresar a las opciones. 🙂🤖 \n"
+               
+        ]
+       
+    },
+    "STEP_2_1":{
+        "replyMessage":[
+            "*Nuestros Servicios* \n",
+            "*Soporte tecnico* Equipos de computo, servidores, redes, Dispositivos moviles, Domotica, Mantenimiento preventivo y correctivo\n",
+            "*Seguridad Informatica* Vulnerabilidades, VPN, Encriptacion de datos, Identificacion de amenazas\n",
+            "*Venta de equipo de computo* Gamers, hogar u oficina \n",
+            "😎😎😎\n",
+            "Escribe *MENU* para regresar a las opciones. 🙂🤖 \n"
+        ]
+        
+        
+    },
+    "STEP_2_2":{
+        "replyMessage":[
+            "Indicanos tu numero de Folio\n",
+            "*No olvides incluir Letras y numeros*\n",
+            "O Escribe *MENU* para regresar a las opciones. 🙂🤖 \n"
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_2_3":{
+        "replyMessage":[
+            "*Esta es la promo del mes* 😮😮😮\n",
+            "Escribe *MENU* para regresar a las opciones. 🙂🤖\n"
+            
+        ],
+        "media":"paquetedelmes.jpg",
+        "trigger":null
+        
+    },
+    "STEP_2_4":{
+        "replyMessage":[
+            "En unos momentos 🕘 un agente especializado te contactara, por favor: \n",
+            "*Escribe tu nombre* y el motivo de tu consulta \n",
+            "🙂👨🏽‍💻",
+            " Gracias por elegirnos"
+        ],
+        "media":"https://media.giphy.com/media/JZDWiuZ7HOaNHfRdm9/giphy.gif",
+        "trigger":null
+    },
+    "STEP_3":{
+        "replyMessage":[
+            "",
+            ""
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_4":{
+        "replyMessage":[
+            "Gracias a ti!\n"
+        ],
+        "media":"https://media.giphy.com/media/JZDWiuZ7HOaNHfRdm9/giphy.gif",
+        "trigger":null
+    },
+    "STEP_5":{
+        "replyMessage":[
+            "Hasta pronto!! es un gusto atenderte \n"
+            
+        ],
+        "media":"https://media.giphy.com/media/JZDWiuZ7HOaNHfRdm9/giphy.gif",
+        "trigger":null
+    },
+    "STEP_6":{
+        "replyMessage":[
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "media":"https://media.giphy.com/media/JZDWiuZ7HOaNHfRdm9/giphy.gif",
+        "trigger":null
+    },
+    "STEP_7":{
+        "replyMessage":[
+            "*1*. Para saber nuestro horario de atención. 🕘 \n",
+            "*2*. Conocer nuestros servicios. 👨🏽‍💻 \n",
+            "*3*. Status de tu equipo. 💻📱 \n",
+            "*4*. Información de nuestros paquetes de cámaras de seguridad. 📸🛡️ \n",
+            "*5*. Ser atendido por un asesor. 👨🏽‍💻✅ \n"
+
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_8":{
+        "replyMessage":[
+               
+        ],
+        "media":"",
+        "trigger":null
+    }
+}
